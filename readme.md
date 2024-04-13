@@ -1,9 +1,16 @@
 # Afrocódigos
-## Módulo - JavaScript I
+## Módulo II - JavaScript I
 
 Tamir Amorim  
 [Github](https://github.com/Tamir-Amorim) -> https://github.com/Tamir-Amorim
 
+## 🏢 Pessoas cadastradas 
+Lis - gerente  
+Tamir - funcionario  
+Marcos- visitante  
+Ludmila - visitante  
+Felipe - administrador  
+Deise - administrador  
 
 ## Requisitos do Sistema
 
@@ -23,32 +30,6 @@ Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não
 - [x] Conceder acesso ao usuário se todas as condições forem atendidas.
 - [x] Negar acesso ao usuário se alguma das condições não for atendida.
 - [x] Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não seja permitida, deixe claro o porquê.
-
-
-## Wireframe
-
-- [x] papel e caneta
-
-
-## HTML
-
-- [x] Estrutura principal
-- [x] Usuário
-- [x] nível de acesso 
-- [x] Botão para acesso
-  
-  
-## CSS
-
-- [ ] centralizado
-- [ ] paleta de cores do afrocodigos
-- [ ] responsivo
-
-## JavaSccript
-
-- [x] interação com dados de entrada
-- [x] lógica de resolução
-- [x] Pop-up de resposta
   
 ## Implementações Futuras
 
@@ -59,7 +40,8 @@ Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não
 - [ ] página de boas vindas
 - [ ] CSS responsivo
 - [ ] Adicionar ícones
-- [ ] BEM
+- [ ] BEM - CSS
   
 ## Prédio Afrocódigos versão 1
-Última atualização: 10.04.24
+Alterações: 10.04.24  
+Última atualização: 13.04.24
