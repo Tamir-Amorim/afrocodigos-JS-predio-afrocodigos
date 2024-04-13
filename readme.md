@@ -35,7 +35,7 @@ Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não
 - [x] Estrutura principal
 - [x] Usuário
 - [x] nível de acesso 
-- [x] Butão para acesso
+- [x] Botão para acesso
   
   
 ## CSS
