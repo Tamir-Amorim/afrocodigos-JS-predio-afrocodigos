@@ -21,7 +21,7 @@ Deise - administrador
 
 
 
-<img src="imagens/layout_final.fw.png" alt="MarineGEO circle logo" style="height: 630pxx; width:"> 
+<img src="imagens/prototipo.png" alt="MarineGEO circle logo" style="height: 630pxx; width:"> 
 
 
 ## Requisitos do Sistema

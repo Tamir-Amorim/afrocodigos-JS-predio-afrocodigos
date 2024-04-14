@@ -26,7 +26,7 @@ header {
     position: relative;
     width: 484px;
     height: 630px; /* Defina a altura que desejar */
-    background-image: url('imagens/layout_final2.fw.png');
+    background-image: url('imagens/layout.png');
     background-size: cover;
     color: white; /* Cor do texto */
     text-align: center;

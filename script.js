@@ -33,7 +33,7 @@ function acessar() {
     let horarioPermitidoFim ;
 
 
-    //laço de repetição para encontrar o usuário no cadastro   
+    //Só é permito entrar FRONT-END   
 
     if(trilha === "Back-End"){
         alert("Acesso Negado! Entrada apenas para a melhor trilha do afrocódigos");
