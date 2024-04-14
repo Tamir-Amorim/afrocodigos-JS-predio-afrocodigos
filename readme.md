@@ -1,16 +1,28 @@
 # Afrocódigos
-## Módulo II - JavaScript I
+### Módulo - JavaScript I 
+🍵Tamir Amorim  
 
-Tamir Amorim  
-[Github](https://github.com/Tamir-Amorim) -> https://github.com/Tamir-Amorim
 
-## 🏢 Pessoas cadastradas 
+
+
+## Prédio Afrocódigos  
+
+### Pessoas cadastradas 
+
 Lis - gerente  
 Tamir - funcionario  
 Marcos- visitante  
 Ludmila - visitante  
 Felipe - administrador  
-Deise - administrador  
+Deise - administrador    
+
+
+### Protótipo
+
+
+
+<img src="imagens/layout_final.fw.png" alt="MarineGEO circle logo" style="height: 630pxx; width:"> 
+
 
 ## Requisitos do Sistema
 
@@ -30,6 +42,28 @@ Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não
 - [x] Conceder acesso ao usuário se todas as condições forem atendidas.
 - [x] Negar acesso ao usuário se alguma das condições não for atendida.
 - [x] Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não seja permitida, deixe claro o porquê.
+
+
+
+## HTML
+
+- [x] Estrutura principal
+- [x] Usuário
+- [x] nível de acesso 
+- [x] Botão para acesso
+  
+  
+## CSS
+
+- [ ] centralizado
+- [x] paleta de cores do afrocodigos
+- [ ] responsivo
+
+## JavaSccript
+
+- [x] interação com dados de entrada
+- [x] lógica de resolução
+- [x] Pop-up de resposta
   
 ## Implementações Futuras
 
@@ -40,8 +74,9 @@ Ao fim exiba uma frase amigável dizendo se a entrara está permitida. Caso não
 - [ ] página de boas vindas
 - [ ] CSS responsivo
 - [ ] Adicionar ícones
-- [ ] BEM - CSS
+- [ ] BEM
   
 ## Prédio Afrocódigos versão 1
-Alterações: 10.04.24  
-Última atualização: 13.04.24
+Atualização: 10.04.24  
+Atualização: 13.04.24  
+Última atualização: 14.04.24
