@@ -6,7 +6,7 @@
 
 body {
     margin: 0;
-    
+background-color:#C7A7DC;    
 }
 
 header {
@@ -16,21 +16,32 @@ header {
 }
 
 .container {
-   
-    margin: 5% auto 0 10%;
+  
+    /* margin: 5% auto 0 10%; */
     padding: 10px;
+    justify-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     
 }
 
 .container .img {
-    position: relative;
+    /* position: relative; */
     width: 484px;
     height: 630px; /* Defina a altura que desejar */
-    background-image: url('imagens/layout.png');
+    background-image: url('imagens/layout_final2.fw.png');
     background-size: cover;
     color: white; /* Cor do texto */
     text-align: center;
     padding-top: 200px; /* Ajuste conforme necessário */
+    margin: auto;    
+    border-radius: 8px;
+    /* min-width: 484px;
+    min-height: 630px;
+    */
+
 }
 
 #bemvindo {

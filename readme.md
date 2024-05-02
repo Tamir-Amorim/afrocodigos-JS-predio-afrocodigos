@@ -21,7 +21,7 @@ Deise - administrador
 
 
 
-<img src="imagens/prototipo.png" alt="MarineGEO circle logo" style="height: 630pxx; width:"> 
+<img src="imagens/" alt="Afrocodigos" style="height: 630pxx; width:"> 
 
 
 ## Requisitos do Sistema
